@@ -2,6 +2,4 @@ this ia a jumping feature to the game
 
 moving feature added to the code 
 
-firing feature added to the code 
-
-deleted the firing feature 
+by mistake deleted the firing feature 
